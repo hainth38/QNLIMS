@@ -1,0 +1,47 @@
+site_name: Thien Phuc LIMS
+nav:
+    - Giới thiệu: index.md
+    
+    - Hướng dẩn sử dụng:
+  
+      - Quản lý hệ thống:
+        - Người dùng: huong_dan_su_dung/quan_ly_he_thong/nguoi_dung.md
+        - Nhân viên: huong_dan_su_dung/quan_ly_he_thong/nhan_vien.md
+        - Chức vụ: huong_dan_su_dung/quan_ly_he_thong/chuc_vu.md
+        - Phòng ban: huong_dan_su_dung/quan_ly_he_thong/phong_ban.md
+        - Khoa: huong_dan_su_dung/quan_ly_he_thong/khoa.md
+        
+      - Quản lý danh mục:
+        - Khách hàng: huong_dan_su_dung/quan_ly_danh_muc/khach_hang.md
+        - Lĩnh vực: huong_dan_su_dung/quan_ly_danh_muc/linh_vuc.md
+        - Nhóm chỉ tiêu: huong_dan_su_dung/quan_ly_danh_muc/nhom_chi_tieu.md
+        - Dịch vụ: huong_dan_su_dung/quan_ly_danh_muc/dich_vu.md
+        - Dạng bào chế: huong_dan_su_dung/quan_ly_danh_muc/dang_bao_che.md
+        - Hoạt chất: huong_dan_su_dung/quan_ly_danh_muc/hoat_chat.md
+        - Tiêu chuẩn: huong_dan_su_dung/quan_ly_danh_muc/tieu_chuan.md
+        - Loại mẫu tiếp nhận: huong_dan_su_dung/quan_ly_danh_muc/loai_mau_tiep_nhan.md
+        
+      - Quản lý nghiệp vụ:
+        - Tiếp nhận hồ sơ: huong_dan_su_dung/quan_ly_nghiep_vu/tiep_nhan_ho_so.md
+        - Dịch vụ kỹ thuật: huong_dan_su_dung/quan_ly_nghiep_vu/phong_dich_vu_ky_thuat.md
+        - Tiếp nhận và phân mẫu: huong_dan_su_dung/quan_ly_nghiep_vu/tiep_nhan_va_phan_mau.md
+        - Tổng hợp kết quả kiểm nghiệm: huong_dan_su_dung/quan_ly_nghiep_vu/tong_hop_ket_qua.md
+        - Duyệt kết quả kiểm nghiệm: huong_dan_su_dung/quan_ly_nghiep_vu/duyet_ket_qua.md
+        
+      - Quản lý cơ sở vật chất:
+        - Thiết bị: huong_dan_su_dung/quan_ly_co_so_vat_chat/thiet_bi.md
+        - Hóa chất: huong_dan_su_dung/quan_ly_co_so_vat_chat/hoa_chat.md
+        - Dụng cụ thủy tinh: huong_dan_su_dung/quan_ly_co_so_vat_chat/dung_cu_thuy_tinh.md
+        
+      - Báo cáo thống kê: huong_dan_su_dung/bao_cao_thong_ke/bao_cao_thong_ke.md
+      
+theme: readthedocs
+use_directory_urls: true
+site_url: null
+repo_url: null
+repo_name: 'hai'
+extra_css: [custom/extra.css]
+formats:
+  - epub
+  - pdf
+
