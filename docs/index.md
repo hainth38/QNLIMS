@@ -1,6 +1,6 @@
 # Giới thiệu 
 
-**Laboratory Information Management System** (viết tắt là **LIMS**) là *Hệ thống phần mềm quản lý thông tin phòng kiểm nghiệm* được xây dựng và phát triển bởi Công ty TNHH Thiết bị khoa học và Y tế Thiên Phúc với các chức năng chính bao gồm:
+**Laboratory Information Management System** (viết tắt là **LIMS**) là *Hệ thống phần mềm quản lý thông tin phòng kiểm nghiệm* được xây dựng và phát triển bởi Viện nghiên cứu ứng dụng Khoa học và Công nghệ, Đại học Quy Nhơn với các chức năng chính bao gồm:
 
 **Hệ thống**:
 >
