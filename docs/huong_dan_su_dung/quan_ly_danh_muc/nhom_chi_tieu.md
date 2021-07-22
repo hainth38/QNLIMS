@@ -2,8 +2,8 @@
 
 Quản lý danh sách các nhóm chỉ tiêu bao gồm: thêm mới, cập nhật, xóa nhóm chỉ tiêu.
 
-![](https://imgur.com/ufZae4p.png "Giao diện chính - Danh sách Nhóm chỉ tiêu")
+![](https://i.imgur.com/ZoBi2dX.png "Giao diện chính - Danh sách Nhóm chỉ tiêu")
 
-![](https://imgur.com/8FKyMJK.png "Thêm mới Nhóm chỉ tiêu")
+![](https://i.imgur.com/8AjMFBZ.png "Thêm mới Nhóm chỉ tiêu")
 
-![](https://imgur.com/uQ711Ud.png "Xóa thông tin Nhóm chỉ tiêu")   
+![](https://i.imgur.com/F6eg2ks.png "Xóa thông tin Nhóm chỉ tiêu")   
