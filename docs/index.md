@@ -7,7 +7,7 @@
   - Quản lý nhân viên; chức vụ.
   - Quản lý khoa; phòng ban.
   - Quản lý người dùng; phân quyền chức năng.
-  
+
 **Danh mục**:
 >
   - Quản lý khách hàng.
@@ -51,5 +51,5 @@ Mục đích chính của QNLIMS là cải thiện hiệu quả và độ chính
 - **Bước 5**: Kiểm nghiệm viên sẽ kiểm nghiệm và cho ra kết quả.
 - **Bước 6**: Tổng hợp viên thuộc khoa chuyên môn sẽ gặp các Kiểm nghiệm viên để tổng hợp kết quả -> sau đó gửi kết quả cho Trưởng khoa chuyên môn.
 - **Bước 7**: Trưởng khoa chuyên môn duyệt các kết quả kiểm nghiệm: Nếu đạt yêu cầu chất lượng thì gửi lại cho phòng dịch vụ kỹ thuật, Nếu không đạt yêu cầu chất lượng thì cho kiểm nghiệm viên làm lại.
-- **Bước 8**: Phòng dịch vụ kỹ thuật nhận kết quả từ Khoa chuyên môn -> nhập kết luận và in phiếu kết cho Giám đốc duyệt.
-- **Bước 9**: Giám đốc duyệt phiếu kết quả: Nếu đạt yêu cầu thì ký tên và gửi trả lại cho Phòng dịch vụ kỹ thuật -> Phòng dịch vụ kỹ thuật trả cho Khách hàng. Nếu không đạt yêu cầu thì cho tiến hành làm lại theo quy trinh.
+- **Bước 8**: Phòng dịch vụ kỹ thuật nhận kết quả từ Khoa chuyên môn -> nhập kết luận và in phiếu kết quả cho Giám đốc duyệt.
+- **Bước 9**: Giám đốc duyệt phiếu kết quả: Nếu đạt yêu cầu thì ký tên và gửi trả lại cho Phòng dịch vụ kỹ thuật -> Phòng dịch vụ kỹ thuật trả cho Khách hàng. Nếu không đạt yêu cầu thì cho tiến hành làm lại theo quy trình.
