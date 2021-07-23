@@ -20,6 +20,7 @@
   - Tiếp nhận và phân mẫu
   - Tổng hợp kết quả kiểm nghiệm
   - Duyệt kết quả kiểm nghiệm
+
 **Cơ sở vật chất**: 
 >
   - Quản lý thiết bị.
@@ -41,3 +42,13 @@ Mục đích chính của QNLIMS là cải thiện hiệu quả và độ chính
 ## Quy trình nghiệp vụ của QNLIMS
 
 ![](https://i.imgur.com/8SGCIgA.png "Quy trình nghiệp vụ QNLIMS")
+
+- **Bước 1**: Khách hàng giao mẫu kiểm nghiệm cho Bộ phận tiếp nhận mẫu -> Bộ phận tiếp nhận mẫu điền thông tin vào hệ thống và in biên bản tiếp nhận mẫu giao cho khách hàng.
+- **Bước 2**: Bộ phận tiếp nhận mẫu gửi thông tin hồ sơ mẫu kiểm nghiệm cho phòng dịch vụ kỹ thuật.
+- **Bước 3**: Phòng kỹ thuật tiếp nhận hồ sơ và tiến hành phân chỉ tiêu kiểm nghiệm cho từng khoa chuyên môn.
+- **Bước 4**: Trưởng Khoa chuyên môn nhận chỉ tiêu kiểm nghiệm và tiến hành phân công từng chỉ tiêu kiểm nghiệm cho các kiểm nghiệm viên.
+- **Bước 5**: Kiểm nghiệm viên sẽ kiểm nghiệm và cho ra kết quả.
+- **Bước 6**: Tổng hợp viên thuộc khoa chuyên môn sẽ gặp các kiểm nghiệm viên tổng hợp kết quả -> sau đó gửi kết quả cho Trưởng khoa chuyên môn.
+- **Bước 7**: Trưởng khoa chuyên môn duyệt các kết quả kiểm nghiệm: Nếu đạt yêu cầu chất lượng thì gửi lại cho phòng dịch vụ kỹ thuật, Nếu không đạt yêu cầu chất lượng thì cho kiểm nghiệm viên làm lại.
+- **Bước 8**: Phòng dịch vụ kỹ thuật nhận kết quả từ khoa chuyên môn -> nhập kết luận và in phiếu kết quả mang kêt giám đốc duyệt.
+- **Bước 9**: Giám đốc duyện phiếu kết quả: Nếu đạt yêu cầu thì gửi trả lại cho phòng dịch vụ kỹ thuật -> trả cho khách hàng. Nếu không đạt yêu cầu thì cho tiến hành làm lại theo quy trinh.
