@@ -42,7 +42,7 @@ Mục đích chính của QNLIMS là cải thiện hiệu quả và độ chính
 
 ## Quy trình nghiệp vụ của QNLIMS
 
-![](https://i.imgur.com/3hlocAM.png "Quy trình nghiệp vụ QNLIMS")
+![](https://i.imgur.com/Cc9RxIe.png "Quy trình nghiệp vụ QNLIMS")
 
 - **Bước 1**: Khách hàng giao mẫu kiểm nghiệm cho Bộ phận tiếp nhận mẫu -> Bộ phận tiếp nhận mẫu điền thông tin vào hệ thống và in biên bản tiếp nhận mẫu giao cho Khách hàng.
 - **Bước 2**: Bộ phận tiếp nhận mẫu gửi thông tin hồ sơ mẫu kiểm nghiệm cho Phòng dịch vụ kỹ thuật.
