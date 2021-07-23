@@ -7,6 +7,7 @@
   - Quản lý nhân viên; chức vụ.
   - Quản lý khoa; phòng ban.
   - Quản lý người dùng; phân quyền chức năng.
+  
 **Danh mục**:
 >
   - Quản lý khách hàng.
