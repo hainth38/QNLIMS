@@ -40,9 +40,29 @@ Mục đích chính của QNLIMS là cải thiện hiệu quả và độ chính
 - Truy xuất dữ liệu nhanh chóng, bảo mật
 - Quy trình kiểm nghiệm linh hoạt, đồng bộ
 
-## Quy trình nghiệp vụ của QNLIMS
+## Vai trò của các module trong hệ thống
+![](https://i.imgur.com/hMubvlU.png "Vai trò của các module trong hệ thống")
 
-![](https://i.imgur.com/Cc9RxIe.png "Quy trình nghiệp vụ QNLIMS")
+### Module Tiếp nhận hồ sơ (Nhân viên tiếp nhận)
+- Tiếp nhận hồ sơ từ khách hàng bao gồm mẫu lấy và mẫu gửi.
+### Module Dịch vụ kỹ thuật (Nhân viên hành chính tổng hợp)
+- Nhận hồ sơ từ bộ phận Tiếp nhận hồ sơ và phân nhóm chỉ tiêu cho các Khoa chuyên môn thực hiện.
+- Tổng hợp kết quả từ các Khoa chuyên môn.
+- Trình phiếu kết quả cho cho Lãnh đạo xét duyệt.
+### Module Tiếp nhận và phân mẫu (Trưởng khoa chuyên môn)
+- Nhận nhóm chỉ tiêu từ bộ phận Dịch vụ kỹ thuật và phân từng chỉ tiêu kiểm nghiệm cho từng Kiểm nghiệm viên thực hiện.
+- Xác nhận kết quả tổng hợp từ Tổng hợp viên.
+### Module Kết quả kiểm nghiệm (Kiểm nghiệm viên)
+- Xem chỉ tiêu kiểm nghiệm cần thực hiện.
+### Module Tổng hợp kết quả (Tổng hợp viên)
+- Nhận kết quả từ các Kiểm nghiệm viên
+- Kiểm tra và gửi kết quả cho Trưởng khoa chuyên môn thực hiện xét duyệt.
+### Duyệt kết quả (Lãnh đạo)
+- Lãnh đạo nhận kết quả từ bộ phận Dịch vụ kỹ thuật sau đó tiến hành xét duyệt.
+
+## Một quy trình nghiệp vụ mẫu của QNLIMS
+
+![](https://i.imgur.com/Cc9RxIe.png "Quy trình nghiệp vụ mẫu QNLIMS")
 
 - **Bước 1**: Khách hàng giao mẫu kiểm nghiệm cho Bộ phận tiếp nhận mẫu -> Bộ phận tiếp nhận mẫu điền thông tin vào hệ thống và in biên bản tiếp nhận mẫu giao cho Khách hàng.
 - **Bước 2**: Bộ phận tiếp nhận mẫu gửi thông tin hồ sơ mẫu kiểm nghiệm cho Phòng dịch vụ kỹ thuật.
